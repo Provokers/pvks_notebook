@@ -1,0 +1,9 @@
+Coloque aqui o arquivo AlloVariable.woff2.
+
+Como obter: rode "npm i allo-font" e copie node_modules/allo-font/fonts/webfonts/AlloVariable.woff2 para esta pasta,
+ou baixe direto de https://github.com/joshpuckett/allo.
+
+Se o caminho do arquivo no pacote for diferente, mantenha o nome AlloVariable.woff2 ao salvar aqui.
+Sem esse arquivo o site tenta carregar a fonte pela CDN jsDelivr e, se falhar, usa uma fonte do sistema.
+
+A fonte Allo é distribuída sob a licença SIL Open Font License 1.1.
